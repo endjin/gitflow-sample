@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Endjin.Core.Composition</id>
+    <version>1.1.0.27</version>
+    <title>Endjin Composition Framework</title>
+    <authors>Endjin</authors>
+    <owners>Endjin</owners>
+    <licenseUrl>http://www.opensource.org/licenses/ms-pl</licenseUrl>
+    <projectUrl>http://opensource.endjin.com/composition/</projectUrl>
+    <iconUrl>http://endjin.com/upload/projects/endjin.core.composition-icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Whatever the framework, component composition works the same way: you have interfaces and concrete implementations and you need to map one against the other. The Endjin Composition Framework helps you work smarter, not harder by making component composition simple.</description>
+    <language>en-GB</language>
+    <tags>castle windsor ioc di dependency injection</tags>
+    <dependencies>
+      <dependency id="Castle.Windsor" version="3.1.0" />
+    </dependencies>
+  </metadata>
+</package>

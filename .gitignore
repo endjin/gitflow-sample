@@ -11,6 +11,7 @@ _ReSharper*/
 *.log
 out/
 drop/
+BuildArtefacts/
 *.lastpatched
 *.t4properties
 *.docstates
