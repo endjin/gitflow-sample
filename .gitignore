@@ -10,7 +10,7 @@ _ReSharper*/
 *.sln.metaproj*
 *.log
 out/
-drop/
+BuildArtefacts/
 *.lastpatched
 *.t4properties
 *.docstates
